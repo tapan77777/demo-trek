@@ -9,11 +9,12 @@
   "dependencies": {
     "mongoose": "^7.0.0",
     "next": "latest",
+    "razorpay": "^2.8.5",
     "react": "latest",
-    "react-dom": "latest",
-    "razorpay": "^2.8.5"
+    "react-dom": "latest"
   },
   "devDependencies": {
+    "@types/react": "^19.1.6",
     "typescript": "^5.0.0"
   }
 }
